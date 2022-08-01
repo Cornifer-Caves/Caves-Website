@@ -25,6 +25,7 @@ export default function Home() {
         <p>
           keep up with my itch because Im always doing jams
         </p>
+      </body>
       </main>
 
       <Footer />
