@@ -10,12 +10,9 @@ export default function Home() {
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
-      <main>
-        <Header title="I make bad games, badly" />
-        <p className="description">
-          Get started by editing <code>pages/index.js</code>
-        </p>
-      </main>
+
+<iframe src="https://itch.io/embed/1628145" width="640" height="640" frameborder="0"><a href="https://coolio-caves.itch.io/p0ng">p0ng by Cornifer_Caves</a></iframe>
+
 
       <Footer />
     </div>
