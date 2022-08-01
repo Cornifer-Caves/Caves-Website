@@ -20,10 +20,10 @@ export default function Home() {
           If you dont know me I make amature games on my itch.io
         </p>
         <p>
-          <a href="https://coolio-caves.itch.io/">coolio-caves.itch.io/</a>
+          <a href="https://coolio-caves.itch.io/">coolio-caves.itch.io</a>
         </p>        
         <p>
-          keep up with my itch because Im always doing jams
+          "keep up with my itch because Im always doing jams"
         </p>
       </main>
 
