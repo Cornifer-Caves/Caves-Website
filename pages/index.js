@@ -1,40 +1,4 @@
 import Head from 'next/head'
 import Header from '@components/Header'
 import Footer from '@components/Footer'
-
-<html>
-<head>
-<title>
-Cornifer's Website
-</title>
-</head>
-<body>
-<p>
-<font face="Comic sans MS" size="7">
-subscribe
-</body>
-<p>
-</font>
-<body>
-<font face="Comic sans MS" size="5">
-to cornifersleeps
-</body>
-</font>
-<body>
-<p>
-<font face="Times New Roman" size="1">
-https://www.youtube.com/channel/UCfidLSYHDDIBVW1zRYNhq5A
-</font>
-<p>
-</body>
-<body>
-<p>
-<img src="https://video-images.vice.com/articles/5dfcdf5174a820009a1b4a41/lede/1576853802436-chicky-nuggies.jpeg?crop=1xw%3A1xh%3Bcenter%2Ccenter&resize=2000%3A*" alt="HTML5 Image" style="width:400px; height:250px;">
-</p>
-</body>
-<body>
-<p>
-<iframe width="853" height="480" src="https://www.youtube.com/embed/x8iLN_WvjqM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</p>
-</body>
-</html>
+<html><head><meta charSet="utf-8"/><meta name="viewport" content="width=device-width"/><title>Cornifer has a website?!</title><link rel="icon" href="/favicon.ico"/><meta name="next-head-count" content="4"/><link rel="preload" href="/_next/static/css/921ec2eac5cd9779.css" as="style"/><link rel="stylesheet" href="/_next/static/css/921ec2eac5cd9779.css" data-n-g=""/><link rel="preload" href="/_next/static/css/f8721c35c36f829f.css" as="style"/><link rel="stylesheet" href="/_next/static/css/f8721c35c36f829f.css" data-n-p=""/><noscript data-n-css=""></noscript><script defer="" nomodule="" src="/_next/static/chunks/polyfills-c67a75d1b6f99dc8.js"></script><script src="/_next/static/chunks/webpack-69bfa6990bb9e155.js" defer=""></script><script src="/_next/static/chunks/framework-4556c45dd113b893.js" defer=""></script><script src="/_next/static/chunks/main-aff9f5cd95c9bd16.js" defer=""></script><script src="/_next/static/chunks/pages/_app-54772c170987db80.js" defer=""></script><script src="/_next/static/chunks/pages/index-b43d7c559585675c.js" defer=""></script><script src="/_next/static/FYK_12FPKHHLhWHbDRev5/_buildManifest.js" defer=""></script><script src="/_next/static/FYK_12FPKHHLhWHbDRev5/_ssgManifest.js" defer=""></script></head><body><div id="__next"><div class="container"><iframe src="https://itch.io/embed/1628145" width="640" height="640" frameborder="0"><a href="https://coolio-caves.itch.io/p0ng">p0ng by Cornifer_Caves</a></iframe><footer class="Footer_footer___O5Nl">Made with <img src="/netliheart.svg" alt="Netlify Logo" class="Footer_logo__AdUui"/> for you</footer></div></div><script id="__NEXT_DATA__" type="application/json">{"props":{"pageProps":{}},"page":"/","query":{},"buildId":"FYK_12FPKHHLhWHbDRev5","nextExport":true,"autoExport":true,"isFallback":false,"scriptLoader":[]}</script></body></html>
