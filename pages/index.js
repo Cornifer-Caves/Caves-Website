@@ -26,7 +26,7 @@ export default function Home() {
           keep up with my itch because Im always doing jams
         </p>
       </main>
-    </body>
+   </body>
 
       <Footer />
     </div>
