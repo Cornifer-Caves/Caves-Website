@@ -9,7 +9,6 @@ export default function Home() {
         <title>a-coolio-site</title>
         <link rel="icon" href="/favicon.ico" />
       </Head>
-    <body style="background-color:grey;">
       <main>
         <Header title="Cornifer has a website!?" />
         <p className="description">
@@ -25,7 +24,6 @@ export default function Home() {
           keep up with my itch because Im always doing jams
         </p>
       </main>
-     </body>
       <Footer />
     </div>
   )
