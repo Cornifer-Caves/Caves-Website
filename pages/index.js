@@ -9,10 +9,10 @@ export default function Home() {
         <title>a-coolio-site</title>
         <link rel="icon" href="/favicon.ico" />
       </Head>
+    <body style="background-color:grey;">
 
       <main>
         <Header title="Cornifer has a website!?" />
-        <body style="background-color:grey;">
         <p className="description">
           yeah apparently I wanted one so here it is
         </p>
@@ -25,8 +25,8 @@ export default function Home() {
         <p>
           keep up with my itch because Im always doing jams
         </p>
-      </body>
       </main>
+    </body>
 
       <Footer />
     </div>
