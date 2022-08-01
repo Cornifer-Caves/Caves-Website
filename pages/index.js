@@ -11,9 +11,9 @@ export default function Home() {
       </Head>
 
       <main>
-    <img src="logo.png" alt="Green logo with yellow and black text saying c_c">
         <Header title="Cornifer has a website!?" />
         <p className="description">
+    <img src="logo.png" alt="Green logo with yellow and black text saying c_c">
           yeah apparently I wanted one so here it is
         </p>
         <p>
