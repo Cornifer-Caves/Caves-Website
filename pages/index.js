@@ -22,7 +22,7 @@ export default function Home() {
           <a href="https://coolio-caves.itch.io/">coolio-caves.itch.io</a>
         </p>        
         <p>
-          "keep up with my itch because Im always doing jams"
+          keep up with my itch because Im always doing jams
         </p>
       </main>
 
