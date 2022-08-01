@@ -12,7 +12,7 @@ export default function Home() {
 
       <main>
         <Header title="Cornifer has a website!?" />
-        <body style="background-color:#348035;">
+        <body style="background-color:grey;">
         <p className="description">
           yeah apparently I wanted one so here it is
         </p>
