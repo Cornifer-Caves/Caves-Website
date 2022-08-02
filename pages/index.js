@@ -10,6 +10,12 @@ export default function Home() {
         <link rel="icon" href="/favicon.ico" />
       </Head>
       <main>
+    <style>
+  body {
+    background-color: #E6E6FA;
+  }
+  </style>
+  <body>
         <Header title="Cornifer has a website!?" />
         <p className="description">
           yeah apparently I wanted one so here it is
@@ -29,7 +35,8 @@ export default function Home() {
         </p>
         <p>
           <a href="https://www.youtube.com/channel/UCdDG5aOkGhZzWIfIP9v3chA">My Youtube</a>
-        </p>  
+        </p> 
+      </body>
       </main>
       <Footer />
     </div>
