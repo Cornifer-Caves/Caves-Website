@@ -37,8 +37,8 @@ export default function Home() {
         <p>
           <img src="https://i.ibb.co/jHjBXB7/spirit.png" alt="A cartoon ghost" />
         </p>
+      </audio>
       </main>
-     </audio>
     </body>
       <Footer />
     </div>
