@@ -9,11 +9,12 @@ export default function Home() {
         <title>a-coolio-site</title>
         <link rel="icon" href="/favicon.ico" />
       </Head>
- <audio controls autoplay>
-  <source src="yt1s.com - frogshopmp3.mp3" type="audio/mp3">
- </audio> 
+
+
     <body>
       <main>
+     <audio controls autoplay>
+       <source src="yt1s.com - frogshopmp3.mp3" type="audio/mp3">
         <Header title="Cornifer has a website!?" />
         <p className="description">
           yeah apparently I wanted one so here it is
@@ -38,6 +39,7 @@ export default function Home() {
           <img src="https://i.ibb.co/jHjBXB7/spirit.png" alt="A cartoon ghost" />
         </p>
       </main>
+   </audio>
     </body>
       <Footer />
     </div>
