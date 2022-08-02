@@ -15,7 +15,10 @@ export default function Home() {
         <p className="description">
           yeah apparently I wanted one so here it is
         </p>
-        <Header title="Who is cornifer" />
+        <Header title="Who is Cornifer" />
+        <p>
+          My name, cornifer, is from the game hollow knight (which i havent yet beat).
+        </p>
         <p>
           If you dont know me I make amature games on <a href="https://coolio-caves.itch.io/">my itch.io</a>
         </p>
@@ -29,7 +32,7 @@ export default function Home() {
           I make devlogs sometimes and keep people updated on my projects.
         </p> 
         <p>
-        <img src="https://i.ibb.co/jHjBXB7/spirit.png" alt="A cartoon ghost" />
+          <img src="https://i.ibb.co/jHjBXB7/spirit.png" alt="A cartoon ghost" />
         </p>
       </main>
     </body>
