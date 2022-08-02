@@ -10,7 +10,6 @@ export default function Home() {
         <link rel="icon" href="/favicon.ico" />
       </Head>
     <body>
-      <img src="https://i.ibb.co/jHjBXB7/spirit.png">
       <main>
         <Header title="Cornifer has a website!?" />
         <p className="description">
@@ -18,6 +17,7 @@ export default function Home() {
         </p>
         <Header title="Who is cornifer" />
         <p>
+    <img src="https://i.ibb.co/jHjBXB7/spirit.png">
           If you dont know me I make amature games on <a href="https://coolio-caves.itch.io/">my itch.io</a>
         </p>
         <p>
