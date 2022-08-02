@@ -9,8 +9,8 @@ export default function Home() {
         <title>a-coolio-site</title>
         <link rel="icon" href="/favicon.ico" />
       </Head>
-      <main>
     <style>
+      <main>
         <Header title="Cornifer has a website!?" />
         <p className="description">
           yeah apparently I wanted one so here it is
@@ -31,8 +31,8 @@ export default function Home() {
         <p>
           I make devlogs sometimes and keep people updated on my projects
         </p> 
-    </style>
       </main>
+    </style>
       <Footer />
     </div>
   )
