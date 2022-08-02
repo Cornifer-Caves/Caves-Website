@@ -9,7 +9,7 @@ export default function Home() {
         <title>a-coolio-site</title>
         <link rel="icon" href="/favicon.ico" />
       </Head>
-    <style>
+    <body>
       <main>
         <Header title="Cornifer has a website!?" />
         <p className="description">
@@ -32,7 +32,7 @@ export default function Home() {
           I make devlogs sometimes and keep people updated on my projects
         </p> 
       </main>
-    </style>
+    </body>
       <Footer />
     </div>
   )
