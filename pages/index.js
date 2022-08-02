@@ -30,8 +30,8 @@ export default function Home() {
           I make devlogs sometimes and keep people updated on my projects.
         </p> 
       </main>
-    </body>
     </img>
+    </body>
       <Footer />
     </div>
   )
