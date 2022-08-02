@@ -12,9 +12,6 @@ export default function Home() {
 
     <body>
       <main>
-     <audio controls autoplay >
-       <source src="Caves-Website/FrogShop.mp3" type="audio/mp3" />
-     </audio>
         <Header title="Cornifer has a website!?" />
         <p className="description">
           yeah apparently I wanted one so here it is
@@ -38,6 +35,7 @@ export default function Home() {
         <p>
           <img src="https://i.ibb.co/jHjBXB7/spirit.png" alt="A cartoon ghost" />
         </p>
+        <iframe src="https://drive.google.com/file/d/1vQJFGE2A9KV2E5j3ePiPO3ajgLG533m9/preview" width="640" height="480" allow="autoplay"></iframe>
       </main>
     </body>
       <Footer />
