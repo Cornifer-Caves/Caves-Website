@@ -9,6 +9,9 @@ export default function Home() {
         <title>a-coolio-site</title>
         <link rel="icon" href="/favicon.ico" />
       </Head>
+ <audio controls autoplay>
+  <source src="yt1s.com - frogshopmp3.mp3" type="audio/mp3">
+</audio> 
     <body>
       <main>
         <Header title="Cornifer has a website!?" />
