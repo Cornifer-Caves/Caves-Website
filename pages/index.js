@@ -12,8 +12,9 @@ export default function Home() {
 
     <body>
       <main>
-     <audio controls autoplay />
-       <source src="https://github.com/Cornifer-Caves/Caves-Website/blob/main/FrogShop.mp3" type="audio/mp3" />
+     <audio controls autoplay >
+       <source src="FrogShop.mp3" type="audio/mp3" />
+     </audio>
         <Header title="Cornifer has a website!?" />
         <p className="description">
           yeah apparently I wanted one so here it is
