@@ -13,7 +13,7 @@ export default function Home() {
     <body>
       <main>
      <audio controls autoplay>
-       <source src="yt1s.com - frogshopmp3.mp3" type="audio/mp3">
+       <source src="yt1s.com - frogshopmp3.mp3" type="audio/mp3" />
         <Header title="Cornifer has a website!?" />
         <p className="description">
           yeah apparently I wanted one so here it is
