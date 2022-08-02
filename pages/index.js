@@ -14,6 +14,7 @@ export default function Home() {
         <p className="description">
           yeah apparently I wanted one so here it is
         </p>
+        <Header title="Who is cornifer" />
         <p>
           If you dont know me I make amature games on my itch.io
         </p>
@@ -21,8 +22,14 @@ export default function Home() {
           <a href="https://coolio-caves.itch.io/">coolio-caves.itch.io</a>
         </p>        
         <p>
-          keep up with my itch because Im always doing jams
+          keep up with my itch because Im always doing jams!
         </p>
+        <p>
+          I make videos aswell though on youtube
+        </p>
+        <p>
+          <a href="https://www.youtube.com/channel/UCdDG5aOkGhZzWIfIP9v3chA">My Youtube</a>
+        </p>  
       </main>
       <Footer />
     </div>
