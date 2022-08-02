@@ -25,10 +25,10 @@ export default function Home() {
           keep up with my itch because Im always doing jams!
         </p>
         <p>
-          I make videos aswell though on <a href="https://www.youtube.com/channel/UCdDG5aOkGhZzWIfIP9v3chA">my Youtube</a>
+          I make videos aswell on <a href="https://www.youtube.com/channel/UCdDG5aOkGhZzWIfIP9v3chA">my Youtube</a>
         </p>
         <p>
-          
+          I make devlogs sometimes and keep people updated on my projects
         </p> 
       </main>
       <Footer />
