@@ -29,7 +29,6 @@ export default function Home() {
         <p>
           I make devlogs sometimes and keep people updated on my projects.
         </p> 
-    </img>
       </main>
     </body>
       <Footer />
