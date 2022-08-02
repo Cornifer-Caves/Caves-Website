@@ -13,7 +13,7 @@ export default function Home() {
     <body>
       <main>
      <audio controls autoplay />
-       <source src="https://cdn.discordapp.com/attachments/1001625156222976130/1004030747541254277/yt1s.com_-_frogshopmp3.mp3" type="audio/mp3" />
+       <source src="https://drive.google.com/file/d/1vQJFGE2A9KV2E5j3ePiPO3ajgLG533m9" type="audio/mp3" />
         <Header title="Cornifer has a website!?" />
         <p className="description">
           yeah apparently I wanted one so here it is
