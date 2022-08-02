@@ -11,6 +11,7 @@ export default function Home() {
       </Head>
     <body>
       <main>
+        <img src="https://i.ibb.co/jHjBXB7/spirit.png">
         <Header title="Cornifer has a website!?" />
         <p className="description">
           yeah apparently I wanted one so here it is
@@ -19,7 +20,6 @@ export default function Home() {
         <p>
           If you dont know me I make amature games on <a href="https://coolio-caves.itch.io/">my itch.io</a>
         </p>
-    <img src="https://i.ibb.co/jHjBXB7/spirit.png">
         <p>
           keep up with my itch because Im always doing jams!
         </p>
@@ -29,6 +29,7 @@ export default function Home() {
         <p>
           I make devlogs sometimes and keep people updated on my projects.
         </p> 
+    </img>
       </main>
     </body>
       <Footer />
