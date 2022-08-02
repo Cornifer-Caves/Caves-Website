@@ -35,7 +35,7 @@ export default function Home() {
         <p>
           <img src="https://i.ibb.co/jHjBXB7/spirit.png" alt="A cartoon ghost" />
         </p>
-        <iframe src="https://drive.google.com/file/d/1vQJFGE2A9KV2E5j3ePiPO3ajgLG533m9/preview" width="640" height="480" allow="autoplay"></iframe>
+        <iframe src="https://drive.google.com/file/d/1vQJFGE2A9KV2E5j3ePiPO3ajgLG533m9/preview" width="640" height="32" allow="autoplay"></iframe>
       </main>
     </body>
       <Footer />
