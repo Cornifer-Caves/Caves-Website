@@ -10,8 +10,8 @@ export default function Home() {
         <link rel="icon" href="/favicon.ico" />
       </Head>
     <body>
+      <img src="https://i.ibb.co/jHjBXB7/spirit.png" alt="A cartoon ghost">
       <main>
-        <img src="https://i.ibb.co/jHjBXB7/spirit.png">
         <Header title="Cornifer has a website!?" />
         <p className="description">
           yeah apparently I wanted one so here it is
