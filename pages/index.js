@@ -10,6 +10,7 @@ export default function Home() {
         <link rel="icon" href="/favicon.ico" />
       </Head>
       <main>
+    <style>
         <Header title="Cornifer has a website!?" />
         <p className="description">
           yeah apparently I wanted one so here it is
@@ -30,6 +31,7 @@ export default function Home() {
         <p>
           I make devlogs sometimes and keep people updated on my projects
         </p> 
+    </style>
       </main>
       <Footer />
     </div>
