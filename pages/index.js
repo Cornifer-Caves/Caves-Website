@@ -6,6 +6,7 @@ export default function Home() {
   return (
     <div className="container">
       <Head>
+        <img src="logo.png" alt="Cornifer's logo a smiley face" width="320" height="320">
         <title>a-coolio-site</title>
         <link rel="icon" href="/favicon.ico" />
       </Head>
