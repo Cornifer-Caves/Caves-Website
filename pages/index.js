@@ -17,9 +17,9 @@ export default function Home() {
         </p>
         <Header title="Who is cornifer" />
         <p>
-    <img src="https://i.ibb.co/jHjBXB7/spirit.png">
           If you dont know me I make amature games on <a href="https://coolio-caves.itch.io/">my itch.io</a>
         </p>
+    <img src="https://i.ibb.co/jHjBXB7/spirit.png">
         <p>
           keep up with my itch because Im always doing jams!
         </p>
