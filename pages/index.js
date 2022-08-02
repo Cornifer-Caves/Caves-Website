@@ -10,7 +10,7 @@ export default function Home() {
         <link rel="icon" href="/favicon.ico" />
       </Head>
     <body>
-      <img src="https://i.ibb.co/jHjBXB7/spirit.png" alt="A cartoon ghost">
+      <img src="https://i.ibb.co/jHjBXB7/spirit.png" alt="A cartoon ghost" />
       <main>
         <Header title="Cornifer has a website!?" />
         <p className="description">
@@ -30,7 +30,6 @@ export default function Home() {
           I make devlogs sometimes and keep people updated on my projects.
         </p> 
       </main>
-    </img>
     </body>
       <Footer />
     </div>
