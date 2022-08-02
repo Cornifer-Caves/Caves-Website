@@ -12,7 +12,7 @@ export default function Home() {
 
     <body>
       <main>
-     <audio controls autoplay>
+     <audio controls autoplay />
        <source src="yt1s.com - frogshopmp3.mp3" type="audio/mp3" />
         <Header title="Cornifer has a website!?" />
         <p className="description">
@@ -37,7 +37,6 @@ export default function Home() {
         <p>
           <img src="https://i.ibb.co/jHjBXB7/spirit.png" alt="A cartoon ghost" />
         </p>
-      </audio>
       </main>
     </body>
       <Footer />
