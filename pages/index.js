@@ -40,7 +40,7 @@ export default function Home() {
           <img src="https://i.ibb.co/jHjBXB7/spirit.png" alt="A cartoon ghost" />
         </p>
           <p>
-          Music by <a href="https://www.youtube.com/c/flowerhead">FlowerHead</a> I need to make it autoplay
+          Music by <a href="https://www.youtube.com/c/flowerheadmusic">FlowerHead</a> I need to make it autoplay
         </p>
         <iframe src="https://drive.google.com/file/d/1vQJFGE2A9KV2E5j3ePiPO3ajgLG533m9/preview" width="320" height="64" allow="autoplay"></iframe>
       </main>
