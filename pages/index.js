@@ -15,11 +15,14 @@ export default function Home() {
       <main>
         <Header title="Cornifer has a website!?" />
         <p className="description">
-          yeah apparently I wanted one so here it is
+          Yeah apparently I wanted one so here it is!
         </p>
         <Header title="Who is Cornifer" />
         <p>
           My name is cornifer, I'm an amature game developer
+        </p>
+        <p>
+        that uses the godot game engine.
         </p>
         <p>
           I stream and make videos aswell.
