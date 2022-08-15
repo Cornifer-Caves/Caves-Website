@@ -20,9 +20,7 @@ export default function Home() {
         <Header title="Who is Cornifer" />
         <p>
           My name is cornifer, I'm an amature game developer
-        <br/>
           I stream and make videos aswell.
-        <br/>
           I have a discord that chat that's just chill place to hangout
         </p>
       </main>
@@ -33,11 +31,11 @@ export default function Home() {
         <a href="https://twitch.tv/garfieldcatboy" target="_blank">
          <img src="/Twitch.png" alt="https://twitch.tv/garfieldcatboy" width="64" height="64"/>
         </a>
-        <a href="https://www.youtube.com/channel/UCdDG5aOkGhZzWIfIP9v3chA" target="_blank">
-         <img src="/Youtube.png" alt="https://www.youtube.com/channel/UCdDG5aOkGhZzWIfIP9v3chA" width="64" height="64"/>
-        </a>
         <a href="https://coolio-caves.itch.io/" target="_blank">
          <img src="/itchio.png" alt="https://coolio-caves.itch.io/" width="64"height="64"/>
+        </a>
+        <a href="https://www.youtube.com/channel/UCdDG5aOkGhZzWIfIP9v3chA" target="_blank">
+         <img src="/Youtube.png" alt="https://www.youtube.com/channel/UCdDG5aOkGhZzWIfIP9v3chA" width="64" height="64"/>
         </a>
 
       </div> 
