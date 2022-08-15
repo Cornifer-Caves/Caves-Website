@@ -10,6 +10,7 @@ export default function Home() {
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
+
     <body>
       <main>
         <Header title="Cornifer has a website!?" />
@@ -39,11 +40,22 @@ export default function Home() {
         <p>
           <img src="https://i.ibb.co/jHjBXB7/spirit.png" alt="A cartoon ghost" />
         </p>
-          <p>
-          Music by <a href="https://www.youtube.com/c/flowerheadmusic">FlowerHead</a> I need to make it autoplay
-        </p>
-        <iframe src="https://drive.google.com/file/d/1vQJFGE2A9KV2E5j3ePiPO3ajgLG533m9/preview" width="320" height="64" allow="autoplay"></iframe>
       </main>
+      <div class="fixed">
+        <a href="https://discord.gg/NV8d5hrGBE" target="_blank">
+         <img src="/Discord.png" alt="https://discord.gg/NV8d5hrGBE" width="64" height="64"/>
+        </a>
+        <a href="https://twitch.tv/garfieldcatboy" target="_blank">
+         <img src="/Twitch.png" alt="https://twitch.tv/garfieldcatboy" width="64" height="64"/>
+        </a>
+        <a href="https://www.youtube.com/channel/UCdDG5aOkGhZzWIfIP9v3chA" target="_blank">
+         <img src="/Youtube.png" alt="https://www.youtube.com/channel/UCdDG5aOkGhZzWIfIP9v3chA" width="64" height="64"/>
+        </a>
+        <a href="https://coolio-caves.itch.io/" target="_blank">
+         <img src="/itchio.png" alt="https://coolio-caves.itch.io/" width="64"height="64"/>
+        </a>
+
+      </div> 
     </body>
       <Footer />
     </div>
