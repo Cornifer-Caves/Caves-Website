@@ -20,8 +20,12 @@ export default function Home() {
         <Header title="Who is Cornifer" />
         <p>
           My name is cornifer, I'm an amature game developer
+        </p>
+        <p>
           I stream and make videos aswell.
-          I have a discord that chat that's just chill place to hangout
+        </p>
+        <p>
+          I have a discord that's just chill place to hangout
         </p>
       </main>
       <div class="fixed">
