@@ -28,7 +28,7 @@ export default function Home() {
           I stream and make videos aswell.
         </p>
         <p>
-          I have a discord that's just chill place to hangout
+          I have a discord that's just chill place to hangout.
         </p>
       </main>
       <div class="fixed">
