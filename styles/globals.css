@@ -37,8 +37,9 @@ code {
 
 div.fixed {
   position: fixed;
-  bottom: 8;
-  left: 8;
+  bottom: 0;
+  left: 0;
+  padding: 8;
   height: 64px;
   width: 256px;
 }
