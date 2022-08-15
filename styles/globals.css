@@ -39,9 +39,9 @@ div.fixed {
   position: fixed;
   bottom: 0;
   left: 0;
-  padding: 8;
   height: 64px;
   width: 256px;
+  padding: 8px;
 }
 
 a:link {
