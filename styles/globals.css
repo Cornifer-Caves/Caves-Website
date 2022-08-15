@@ -1,6 +1,7 @@
 html,
 body {
-  background: #a694ca;
+  background-color: #7b67a6;
+  color: #faf8ff;
   padding: 0;
   margin: 0;
   font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen, Ubuntu, Cantarell,
@@ -33,3 +34,22 @@ code {
   justify-content: center;
   align-items: center;
 }
+
+div.fixed {
+  position: fixed;
+  bottom: 8px;
+  left: 8;
+  height: 64px;
+  width: 256px;
+}
+
+a:link {
+  color: #e8c7e6;
+  text-align: center;
+}
+
+a:hover,
+a:active,
+a:visited {
+  color: #9d8bc2;
+  text-align: center;
