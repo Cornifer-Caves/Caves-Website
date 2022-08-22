@@ -36,7 +36,7 @@ export default function Home() {
        <li><a href="https://www.twitch.tv/garfieldcatboy">Twitch</a></li>
        <li><a href="https://discord.gg/NV8d5hrGBE">Discord</a></li>
        <li><a href="https://coolio-caves.itch.io">Itch.io</a></li>
-       <li><a href="../pages/games.js">Games</a></li>
+       <li><a href="games.js">Games</a></li>
        <li><a href="https://coolio-caves.netlify.app">Videos</a></li>
        <li><a href="https://coolio-caves.netlify.app">About</a></li>
      </ul> 
