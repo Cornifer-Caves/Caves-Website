@@ -7,7 +7,7 @@ export default function Home() {
     <div className="container">
       <Head>
         <title>a-coolio-site</title>
-        <link rel="icon" href="/logo.png" />
+        <link rel="icon" href="/favicon.ico" />
       </Head>
     <body>
       <main>
