@@ -14,16 +14,20 @@ export default function Home() {
           <li><a href="https://coolio-caves.itch.io/">News</a></li>
           <li><a href="https://coolio-caves.itch.io/">Contact</a></li>
           <li><a href="https://coolio-caves.itch.io/">About</a></li>
+          <li style="float:right"><a class="active" href="#about">About</a></li>
         </ul>
     <body>
       <main>
         <Header title="Who is cornifer?." />
         <p className="description">
-          yeah apparently I wanted one so here it is
+          I'm amature game developer who's been using godot for about 6 months
         </p>
-     
         <p>
-
+          not only do I make games I make videos and stream!
+        </p>
+        <p>
+          I'm active in the 
+         
       </main>
       <div class="fixed">
         <a href="https://discord.gg/NV8d5hrGBE" target="_blank">
