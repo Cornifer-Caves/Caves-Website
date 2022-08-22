@@ -22,17 +22,17 @@ export default function Home() {
           I make videos and stream once in a blue moon.
         </p>
         <p>
-          and if it matters to you I go by he/they
+          And if it matters to you I go by he/they
         </p>
           
      <ul>
-       <li><a href="https://coolio-caves.netlify.app">about</a></li>
-       <li><a href="https://coolio-caves.netlify.app">games</a></li>
-       <li><a href="https://coolio-caves.netlify.app">videos</a></li>
-       <li><a href="https://www.youtube.com/channel/UCdDG5aOkGhZzWIfIP9v3chA">youtube</a></li>
-       <li><a href="https://www.twitch.tv/garfieldcatboy">twitch</a></li>
-       <li><a href="https://discord.gg/NV8d5hrGBE">discord</a></li>
-       <li><a href="https://coolio-caves.itch.io">itch.io</a></li>
+       <li><a href="https://www.youtube.com/channel/UCdDG5aOkGhZzWIfIP9v3chA">Youtube</a></li>
+       <li><a href="https://www.twitch.tv/garfieldcatboy">Twitch</a></li>
+       <li><a href="https://discord.gg/NV8d5hrGBE">Discord</a></li>
+       <li><a href="https://coolio-caves.itch.io">Itch.io</a></li>
+       <li><a href="https://coolio-caves.netlify.app">About</a></li>
+       <li><a href="https://coolio-caves.netlify.app">Games</a></li>
+       <li><a href="https://coolio-caves.netlify.app">Videos</a></li>
      </ul> 
       </main>
      <Footer />
