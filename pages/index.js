@@ -13,7 +13,7 @@ export default function Home() {
           <li><a href="https://coolio-caves.itch.io/">Home</a></li>
           <li><a href="https://coolio-caves.itch.io/">News</a></li>
           <li><a href="https://coolio-caves.itch.io/">Contact</a></li>
-          <li style="float:right"><a class="active" href="../pages/index.js">About</a></li>
+          <li style="float:left"><a class="active" href="../pages/index.js">About</a></li>
         </ul>
     <body>
       <main>
