@@ -22,7 +22,7 @@ export default function Home() {
           I participated in the kenney jam
         </p>
         <p>
-          <iframe src="https://itch.io/embed/1670737?linkback=true&amp;bg_color=9d8bc2&amp;fg_color=faf8ff&amp;link_color=faf8ff&amp;border_color=faf8ff" width="552" height="167" frameborder="0"><a href="https://coolio-caves.itch.io/endless-survival-game">Endless survival game by Cornifer_Caves</a></iframe>
+          <iframe src="https://itch.io/embed-upload/6366629?color=7b67a6" allowfullscreen="" width="600" height="252" frameborder="0"><a href="https://coolio-caves.itch.io/endless-survival-game">Play Endless survival game on itch.io</a></iframe>
         </p>
       </main>
       <div class="fixed">
