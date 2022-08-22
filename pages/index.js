@@ -16,6 +16,14 @@ export default function Home() {
           I'm an amature game developer who's been using godot for about 6 months
         </p>
         <p>
+          my whole thing is being bad at game dev as I'm still learning.
+        </p>
+        <p>
+          I make videos and stream once in a blue moon.
+        </p>
+        <p>
+          and if it matters to you I go by he/they
+        </p>
           
      <ul>
        <li><a href="https://coolio-caves.netlify.app">about</a></li>
