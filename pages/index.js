@@ -9,14 +9,6 @@ export default function Home() {
         <title>a-coolio-site</title>
         <link rel="icon" href="/favicon.ico" />
       </Head>
-       <ul>
-          <li><a href="https://coolio-caves.itch.io/">Home</a>
-          </li>
-          <li><a href="https://coolio-caves.itch.io/">News</a>
-          </li>
-          <li><a href="https://coolio-caves.itch.io/">Contact</a>
-          </li>
-       </ul>
     <body>
       <main>
         <Header title="Who is cornifer?." />
