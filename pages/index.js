@@ -39,7 +39,6 @@ export default function Home() {
        <li><a href="https://coolio-caves.netlify.app">About</a></li>
      </ul> 
       </main>
-     <Footer />
     </body>
     </div>
   )
