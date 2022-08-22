@@ -13,7 +13,11 @@ export default function Home() {
       <main>
         <Header title="Cornifer has a website!?" />
         <p>
-          Hi my name is cornifer 
+          Hi my name is cornifer, I make bad games badly.
+        </p>
+        <p>
+          and apparently bad websites too!
+        </p>
         <p className="description">
           I'm an amature game developer who's been using godot for about 6 months
         </p>
