@@ -10,9 +10,12 @@ export default function Home() {
         <link rel="icon" href="/favicon.ico" />
       </Head>
        <ul>
-          <li><a href="https://coolio-caves.itch.io/">Home</a></li>
-          <li><a href="https://coolio-caves.itch.io/">News</a></li>
-          <li><a href="https://coolio-caves.itch.io/">Contact</a></li>
+          <li><a href="https://coolio-caves.itch.io/">Home</a>
+          </li>
+          <li><a href="https://coolio-caves.itch.io/">News</a>
+          </li>
+          <li><a href="https://coolio-caves.itch.io/">Contact</a>
+          </li>
        </ul>
     <body>
       <main>
