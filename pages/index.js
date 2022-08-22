@@ -14,7 +14,6 @@ export default function Home() {
           <li><a href="https://coolio-caves.itch.io/">News</a></li>
           <li><a href="https://coolio-caves.itch.io/">Contact</a></li>
         </ul>
-    
     <body>
       <main>
         <Header title="Who is cornifer?." />
