@@ -16,6 +16,7 @@ export default function Home() {
         <Header title="Cornifer's Works" />
         <p className="description">
           The most recent of his videos, and video games
+        </p>
       </main>
     </body>
       <Footer />
