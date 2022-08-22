@@ -74,6 +74,10 @@ li a:hover {
   background-color: #111;
 }
 
+.active {
+  background-color: #04AA6D;
+}
+
 a:hover,
 a:active,
 a:visited {
