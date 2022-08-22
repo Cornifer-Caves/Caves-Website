@@ -16,7 +16,7 @@ export default function Home() {
           Hi my name is cornifer, I make bad games badly.
         </p>
         <p>
-          and apparently bad websites too!
+          And apparently bad websites too!
         </p>
         <p className="description">
           I'm an amature game developer who's been using godot for about 6 months
