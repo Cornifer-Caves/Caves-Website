@@ -7,11 +7,13 @@ export default function Home() {
     <div className="container">
       <Head>
         <title>a-coolio-site</title>
-        <link rel="icon" href="/favicon.ico" />
+        <link rel="icon" href="/logo.png" />
       </Head>
     <body>
       <main>
         <Header title="Cornifer has a website!?" />
+        <p>
+          Hi my name is cornifer 
         <p className="description">
           I'm an amature game developer who's been using godot for about 6 months
         </p>
@@ -22,7 +24,7 @@ export default function Home() {
           I make videos and stream once in a blue moon.
         </p>
         <p>
-          And if it matters to you I go by he/they
+          And, if it matters to you I go by he/they.
         </p>
           
      <ul>
