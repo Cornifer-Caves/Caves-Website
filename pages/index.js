@@ -21,6 +21,7 @@ export default function Home() {
           yeah apparently I wanted one so here it is
         </p>
       </main>
+     <Footer />
     </body>
     </div>
   )
