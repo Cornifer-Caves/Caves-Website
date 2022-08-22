@@ -38,7 +38,7 @@ export default function Home() {
        <li><a href="https://coolio-caves.itch.io">Itch.io</a></li>
        <li><a href="https://coolio-caves.netlify.app">Games</a></li>
        <li><a href="https://coolio-caves.netlify.app">Videos</a></li>
-       <li><a href="index.js">About</a></li>
+       <li><a href="https://coolio-caves.netlify.app">About</a></li>
      </ul> 
       </main>
      <Footer />
