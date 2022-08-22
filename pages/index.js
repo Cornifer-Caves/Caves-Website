@@ -26,6 +26,7 @@ export default function Home() {
           <li><a href="https://coolio-caves.itch.io/">News</a></li>
           <li><a href="https://coolio-caves.itch.io/">Contact</a></li>
           <li><a href="https://coolio-caves.itch.io/">About</a></li>
+          <li style="float:right"><a class="active" href="#about">About</a></li>
         </ul>
       </main>
       <div class="fixed">
