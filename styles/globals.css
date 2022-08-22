@@ -49,6 +49,10 @@ a:link {
   text-align: center;
 }
 
+li {
+  display: inline;
+}
+
 a:hover,
 a:active,
 a:visited {
