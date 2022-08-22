@@ -13,8 +13,8 @@ export default function Home() {
           <li><a href="https://coolio-caves.itch.io/">Home</a></li>
           <li><a href="https://coolio-caves.itch.io/">News</a></li>
           <li><a href="https://coolio-caves.itch.io/">Contact</a></li>
-          <li style="float:left"><a class="active" href="https://coolio-caves.netlify.app">About</a></li>
         </ul>
+    
     <body>
       <main>
         <Header title="Who is cornifer?." />
