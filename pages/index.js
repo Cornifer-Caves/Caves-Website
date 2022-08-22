@@ -19,9 +19,6 @@ export default function Home() {
         </p>
         <Header title="Games" />
         <p>
-          I participated in the kenney jam
-        </p>
-        <p>
           <iframe src="https://itch.io/embed-upload/6366629?color=7b67a6" allowfullscreen="" width="600" height="252" frameborder="0"><a href="https://coolio-caves.itch.io/endless-survival-game">Play Endless survival game on itch.io</a></iframe>
         </p>
       </main>
