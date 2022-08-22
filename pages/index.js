@@ -21,6 +21,12 @@ export default function Home() {
         <p>
           <iframe src="https://itch.io/embed-upload/6366629?color=7b67a6" allowfullscreen="" width="600" height="252" frameborder="0"><a href="https://coolio-caves.itch.io/endless-survival-game">Play Endless survival game on itch.io</a></iframe>
         </p>
+        <ul>
+          <li><a href="https://coolio-caves.itch.io/">Home</a></li>
+          <li><a href="https://coolio-caves.itch.io/">News</a></li>
+          <li><a href="https://coolio-caves.itch.io/">Contact</a></li>
+          <li><a href="https://coolio-caves.itch.io/">About</a></li>
+        </ul>
       </main>
       <div class="fixed">
         <a href="https://discord.gg/NV8d5hrGBE" target="_blank">
