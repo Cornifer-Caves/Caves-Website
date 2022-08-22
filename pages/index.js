@@ -11,10 +11,9 @@ export default function Home() {
       </Head>
     <body>
      <ul>
-       <li><a href="#home">Home</a></li>
-       <li><a href="#news">News</a></li>
-       <li><a href="#contact">Contact</a></li>
-       <li style="float:right"><a class="active" href="#about">About</a></li>
+       <li><a href="#https://coolio-caves.netlify.app/">Home</a></li>
+       <li><a href="https://coolio-caves.netlify.app/">News</a></li>
+       <li><a href="https://coolio-caves.netlify.app">Contact</a></li>
      </ul> 
       <main>
         <Header title="Cornifer has a website!?" />
